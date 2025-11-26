@@ -1,5 +1,5 @@
 # CUDA
 
-*Practica CUDA programming
-*Instructor: Dr. German Pinedo
-*Alumno: Sebastian Roman Lugo chavez
+**Práctica de programación CUDA**  
+**Instructor:** Dr. Germán Pinedo  
+**Alumno:** Sebastian Roman Lugo Chávez
